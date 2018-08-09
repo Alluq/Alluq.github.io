@@ -11,7 +11,7 @@
 }
 
 .navbar {
-  width: max-width;
+  width: 100%;
   background-color: rgb(41, 41, 41);
   overflow: hidden;
   padding:0;
